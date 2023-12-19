@@ -1,0 +1,6 @@
+﻿  game.c
+D:\code\test_12_3\扫雷（终版-1）\扫雷（终版-1）\game.c(75,1): warning C4029: 声明的形参表不同于定义
+  test.c
+D:\code\test_12_3\扫雷（终版-1）\扫雷（终版-1）\test.c(28,26): warning C4020: “SetMine”: 实参太多
+  正在生成代码...
+  扫雷（终版-1）.vcxproj -> D:\code\test_12_3\扫雷（终版-1）\x64\Debug\扫雷（终版-1）.exe
