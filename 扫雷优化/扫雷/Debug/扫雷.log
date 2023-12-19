@@ -1,0 +1,5 @@
+﻿  game.c
+D:\code\test_12_4\扫雷\扫雷\game.c(59,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+D:\code\test_12_4\扫雷\扫雷\test.c(30,9): warning C4101: “n”: 未引用的局部变量
+  正在生成代码...
