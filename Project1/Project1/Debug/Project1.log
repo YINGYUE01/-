@@ -1,0 +1,4 @@
+﻿  que.cpp
+C:\Users\user\source\repos\Project1\Project1\que.cpp(7,25): error C2590: “ListNode”: 只有构造函数可以有基/成员初始值列表
+C:\Users\user\source\repos\Project1\Project1\que.cpp(7,25): error C2533: “Listnode”: 构造函数不能有返回类型
+C:\Users\user\source\repos\Project1\Project1\que.cpp(28,1): error C2061: 语法错误: 标识符“ListNode”
